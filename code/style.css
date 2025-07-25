@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Open Sans', sans-serif;
+}
+body {
+    background: linear-gradient(to right, #2193b0, #040b25)
+}
+
+
+body .body{
+    margin: 150px;
+    margin-left:150px;
+    color:white;
+    text-align:center;
+}
+
+body .start{
+    margin-left:20px;
+    padding:10px;
+    font-size:18px;
+    background-color:#040b25;
+    color:white;
+    border:5px solid #040b25;
+    border-radius:5px;
+    cursor:pointer;
+}
+body .start:hover{
+    background-color:#0bc7f2;
+    color:#040b25;
+    border:0;
+}
+.pop {
+    display: none;
+    position: fixed;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+.menu{
+    color: white;
+    display : flex;
+    justify-content:center;
+    margin: 10px 250px;
+    background-color:rgba(0, 0, 0, 0.7);
+    border-radius:10px;
+}
+.menu .card{
+    padding:40px;
+    margin:10px;
+    border-radius:8px;
+    text-align:center;
+    box-shado: 0 0 10px 8px  #0bc7f2;
+
+    cursor:pointer;
+}
+.menu .card:hover{
+    background-color:#0bc7f2;
+    color:black;
+   
+}

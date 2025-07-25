@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "question": "What does HTML stand for?",
+      "options": [
+        "HighText Machine Language",
+        "HyperText Markup Language",
+        "Hyperlink and Text Markup Language",
+        "Home Tool Markup Language"
+      ],
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "id": 2,
+      "question": "Which tag is used for the largest heading?",
+      "options": ["<head>", "<h6>", "<h1>", "<title>"],
+      "answer": "<h1>"
+    },
+    {
+      "id": 3,
+      "question": "How do you insert a line break in HTML?",
+      "options": ["<br>", "<lb>", "<break>", "<hr>"],
+      "answer": "<br>"
+    },
+    {
+      "id": 4,
+      "question": "What tag is used to display an image?",
+      "options": ["<img>", "<picture>", "<src>", "<image>"],
+      "answer": "<img>"
+    },
+    {
+      "id": 5,
+      "question": "Which attribute is used for the image path?",
+      "options": ["href", "src", "alt", "link"],
+      "answer": "src"
+    },
+    {
+      "id": 6,
+      "question": "Which tag creates a hyperlink?",
+      "options": ["<a>", "<link>", "<href>", "<url>"],
+      "answer": "<a>"
+    },
+    {
+      "id": 7,
+      "question": "What does the <title> tag define?",
+      "options": ["Page heading", "Tooltip", "Browser tab title", "Section name"],
+      "answer": "Browser tab title"
+    },
+    {
+      "id": 8,
+      "question": "Purpose of alt attribute in <img>?",
+      "options": ["Resize image", "Add border", "Add alternative text", "Set opacity"],
+      "answer": "Add alternative text"
+    },
+    {
+      "id": 9,
+      "question": "Which tag defines a table row?",
+      "options": ["<tr>", "<td>", "<th>", "<table>"],
+      "answer": "<tr>"
+    },
+    {
+      "id": 10,
+      "question": "Which tag is used to insert a list item?",
+      "options": ["<ul>", "<ol>", "<li>", "<list>"],
+      "answer": "<li>"
+    }
+  ]
+  
