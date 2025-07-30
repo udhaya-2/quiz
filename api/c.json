@@ -1,0 +1,103 @@
+[
+    {
+      "question": "Who is the creator of the C programming language?",
+      "options": [
+        "Bjarne Stroustrup",
+        "Dennis Ritchie",
+        "James Gosling",
+        "Guido van Rossum"
+      ],
+      "answer": "Dennis Ritchie"
+    },
+    {
+      "question": "What is the correct file extension for C language source files?",
+      "options": [
+        ".cp",
+        ".cpp",
+        ".c",
+        ".cs"
+      ],
+      "answer": ".c"
+    },
+    {
+      "question": "Which of the following is the correct syntax to print a message in C?",
+      "options": [
+        "cout << \"Hello\";",
+        "System.out.println(\"Hello\");",
+        "printf(\"Hello\");",
+        "print(\"Hello\")"
+      ],
+      "answer": "printf(\"Hello\");"
+    },
+    {
+      "question": "Which header file is required for using the printf() function?",
+      "options": [
+        "conio.h",
+        "stdlib.h",
+        "stdio.h",
+        "string.h"
+      ],
+      "answer": "stdio.h"
+    },
+    {
+      "question": "Which operator is used to assign a value to a variable?",
+      "options": [
+        "==",
+        "=",
+        ":=",
+        "=>"
+      ],
+      "answer": "="
+    },
+    {
+      "question": "How do you start the main function in C?",
+      "options": [
+        "int main[]",
+        "void main()",
+        "main()",
+        "int main()"
+      ],
+      "answer": "int main()"
+    },
+    {
+      "question": "Which of the following is used to declare a constant in C?",
+      "options": [
+        "#define",
+        "const",
+        "static",
+        "final"
+      ],
+      "answer": "#define"
+    },
+    {
+      "question": "Which symbol is used to comment a single line in C?",
+      "options": [
+        "//",
+        "/*",
+        "#",
+        "%%"
+      ],
+      "answer": "//"
+    },
+    {
+      "question": "What is the size of an int variable (typically) in C?",
+      "options": [
+        "2 bytes",
+        "4 bytes",
+        "1 byte",
+        "8 bytes"
+      ],
+      "answer": "4 bytes"
+    },
+    {
+      "question": "Which loop is guaranteed to execute at least once?",
+      "options": [
+        "for loop",
+        "while loop",
+        "do-while loop",
+        "if-else statement"
+      ],
+      "answer": "do-while loop"
+    }
+  ]
+  

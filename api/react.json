@@ -1,0 +1,103 @@
+[
+    {
+      "question": "What is React.js?",
+      "options": [
+        "A back-end framework",
+        "A JavaScript library for building user interfaces",
+        "A database system",
+        "A CSS framework"
+      ],
+      "answer": "A JavaScript library for building user interfaces"
+    },
+    {
+      "question": "Which command is used to create a new React application?",
+      "options": [
+        "npm create react-app",
+        "npx create-react-app",
+        "create-react-app",
+        "react new app"
+      ],
+      "answer": "npx create-react-app"
+    },
+    {
+      "question": "What is the correct syntax to import React in a component?",
+      "options": [
+        "import React from 'react'",
+        "require('react')",
+        "include React",
+        "import { React }"
+      ],
+      "answer": "import React from 'react'"
+    },
+    {
+      "question": "What is a component in React?",
+      "options": [
+        "A function or class that returns JSX",
+        "A CSS style block",
+        "A JavaScript variable",
+        "A database table"
+      ],
+      "answer": "A function or class that returns JSX"
+    },
+    {
+      "question": "Which hook is used to manage state in a functional component?",
+      "options": [
+        "useProps()",
+        "useEffect()",
+        "useState()",
+        "useComponent()"
+      ],
+      "answer": "useState()"
+    },
+    {
+      "question": "What does JSX stand for?",
+      "options": [
+        "JavaScript XML",
+        "Java Syntax Extension",
+        "JSON Extended",
+        "JavaScript Extension"
+      ],
+      "answer": "JavaScript XML"
+    },
+    {
+      "question": "What is the purpose of the useEffect() hook?",
+      "options": [
+        "To manage form inputs",
+        "To handle side effects like data fetching",
+        "To add CSS to a component",
+        "To define routes"
+      ],
+      "answer": "To handle side effects like data fetching"
+    },
+    {
+      "question": "What is the default port for React development server?",
+      "options": [
+        "3000",
+        "8000",
+        "8080",
+        "5000"
+      ],
+      "answer": "3000"
+    },
+    {
+      "question": "Which keyword is used to pass data to child components?",
+      "options": [
+        "data",
+        "state",
+        "arguments",
+        "props"
+      ],
+      "answer": "props"
+    },
+    {
+      "question": "How do you render a list in React?",
+      "options": [
+        "Using a loop function like map() inside JSX",
+        "Using a for loop",
+        "Using setInterval()",
+        "Using the renderList() function"
+      ],
+      "answer": "Using a loop function like map() inside JSX"
+    }
+  ]
+  

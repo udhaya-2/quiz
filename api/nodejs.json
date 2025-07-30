@@ -1,0 +1,103 @@
+[
+    {
+      "question": "What is Node.js?",
+      "options": [
+        "A JavaScript library for front-end development",
+        "A programming language",
+        "A JavaScript runtime built on Chrome's V8 engine",
+        "A browser-based web server"
+      ],
+      "answer": "A JavaScript runtime built on Chrome's V8 engine"
+    },
+    {
+      "question": "Which of the following is used to import a built-in module in Node.js?",
+      "options": [
+        "include 'fs'",
+        "import fs from 'fs'",
+        "require('fs')",
+        "load('fs')"
+      ],
+      "answer": "require('fs')"
+    },
+    {
+      "question": "Which object in Node.js is used to handle events?",
+      "options": [
+        "EventEmitter",
+        "EventHandler",
+        "Events",
+        "Emitter"
+      ],
+      "answer": "EventEmitter"
+    },
+    {
+      "question": "Which module is used to create a web server in Node.js?",
+      "options": [
+        "http",
+        "url",
+        "net",
+        "fs"
+      ],
+      "answer": "http"
+    },
+    {
+      "question": "Which function is used to read a file asynchronously in Node.js?",
+      "options": [
+        "fs.read()",
+        "fs.open()",
+        "fs.readFile()",
+        "fs.getFile()"
+      ],
+      "answer": "fs.readFile()"
+    },
+    {
+      "question": "What does npm stand for?",
+      "options": [
+        "Node Programming Manager",
+        "Node Package Manager",
+        "New Package Manager",
+        "Node Project Module"
+      ],
+      "answer": "Node Package Manager"
+    },
+    {
+      "question": "How do you export a function from a Node.js module?",
+      "options": [
+        "module.export = functionName",
+        "exports = functionName",
+        "module.exports = functionName",
+        "export functionName"
+      ],
+      "answer": "module.exports = functionName"
+    },
+    {
+      "question": "Which method is used to write content to a file in Node.js?",
+      "options": [
+        "fs.appendFile()",
+        "fs.saveFile()",
+        "fs.write()",
+        "fs.store()"
+      ],
+      "answer": "fs.appendFile()"
+    },
+    {
+      "question": "Which of the following is true about Node.js?",
+      "options": [
+        "It is synchronous by default",
+        "It is single-threaded and asynchronous",
+        "It runs only in the browser",
+        "It uses Python for file handling"
+      ],
+      "answer": "It is single-threaded and asynchronous"
+    },
+    {
+      "question": "Which command initializes a new Node.js project with package.json?",
+      "options": [
+        "node init",
+        "npm install",
+        "npm init",
+        "node create"
+      ],
+      "answer": "npm init"
+    }
+  ]
+  

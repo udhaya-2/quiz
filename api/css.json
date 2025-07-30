@@ -1,0 +1,49 @@
+[
+    {
+      "question": "What does CSS stand for?",
+      "options": ["Computer Style Sheets", "Cascading Style Sheets", "Creative Style System", "Colorful Style Syntax"],
+      "answer": "Cascading Style Sheets"
+    },
+    
+    {
+      "question": "Which property is used to change the background color?",
+      "options": ["color", "background-color", "bgcolor", "background"],
+      "answer": "background-color"
+    },
+    {
+      "question": "Which CSS property controls the text size?",
+      "options": ["font-size", "text-style", "font-weight", "text-size"],
+      "answer": "font-size"
+    },
+    {
+      "question": "How do you select an element with id 'header' in CSS?",
+      "options": ["#header", ".header", "header", "*header"],
+      "answer": "#header"
+    },
+    {
+      "question": "How do you make all <p> elements bold in CSS?",
+      "options": ["p { text-style: bold; }", "p { font-weight: bold; }", "p { font: bold; }", "p { bold: true; }"],
+      "answer": "p { font-weight: bold; }"
+    },
+    {
+      "question": "What is the default position value of an HTML element?",
+      "options": ["static", "relative", "absolute", "fixed"],
+      "answer": "static"
+    },
+    {
+      "question": "Which CSS property is used to make text italic?",
+      "options": ["font-weight", "font-style", "text-decoration", "style"],
+      "answer": "font-style"
+    },
+    {
+      "question": "How do you add space between elements in CSS?",
+      "options": ["padding", "spacing", "margin", "border-spacing"],
+      "answer": "margin"
+    },
+    {
+      "question": "Which property is used to change the text color of an element?",
+      "options": ["font-color", "text-color", "color", "style-color"],
+      "answer": "color"
+    }
+  ]
+  

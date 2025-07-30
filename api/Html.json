@@ -13,21 +13,23 @@
     {
       "id": 2,
       "question": "Which tag is used for the largest heading?",
-      "options": ["<head>", "<h6>", "<h1>", "<title>"],
-      "answer": "<h1>"
-    },
+      "options": ["&lt;head&gt;", "&lt;h6&gt;", "&lt;h1&gt;", "&lt;title&gt;"],
+      "answer": "&lt;h1&gt;"
+    }
+    ,
     {
       "id": 3,
       "question": "How do you insert a line break in HTML?",
-      "options": ["<br>", "<lb>", "<break>", "<hr>"],
-      "answer": "<br>"
+      "options": ["&lt;br&gt;", "&lt;lb&gt;", "&lt;break&gt;", "&lt;hr&gt;"],
+      "answer": "&lt;br&gt;"
     },
     {
       "id": 4,
       "question": "What tag is used to display an image?",
-      "options": ["<img>", "<picture>", "<src>", "<image>"],
-      "answer": "<img>"
-    },
+      "options": ["&lt;img&gt;", "&lt;picture&gt;", "&lt;src&gt;", "&lt;image&gt;"],
+      "answer": "&lt;img&gt;"
+    }
+    ,
     {
       "id": 5,
       "question": "Which attribute is used for the image path?",
@@ -37,12 +39,13 @@
     {
       "id": 6,
       "question": "Which tag creates a hyperlink?",
-      "options": ["<a>", "<link>", "<href>", "<url>"],
-      "answer": "<a>"
-    },
+      "options": ["&lt;a&gt;", "&lt;link&gt;", "&lt;href&gt;", "&lt;url&gt;"],
+      "answer": "&lt;a&gt;"
+    }
+    ,
     {
       "id": 7,
-      "question": "What does the <title> tag define?",
+      "question": "What does the &lt;title&gt; tag define?",
       "options": ["Page heading", "Tooltip", "Browser tab title", "Section name"],
       "answer": "Browser tab title"
     },
@@ -55,14 +58,15 @@
     {
       "id": 9,
       "question": "Which tag defines a table row?",
-      "options": ["<tr>", "<td>", "<th>", "<table>"],
-      "answer": "<tr>"
+      "options": ["&lt;tr&gt;", "&lt;td&gt;", "&lt;th&gt;", "&lt;table&gt;"],
+      "answer": "&lt;tr&gt;"
     },
     {
       "id": 10,
       "question": "Which tag is used to insert a list item?",
-      "options": ["<ul>", "<ol>", "<li>", "<list>"],
-      "answer": "<li>"
+      "options": ["&lt;ul&gt;", "&lt;ol&gt;", "&lt;li&gt;", "&lt;list&gt;"],
+      "answer": "&lt;li&gt;"
     }
+    
   ]
   

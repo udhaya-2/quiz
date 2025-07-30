@@ -1,0 +1,103 @@
+[
+    {
+      "question": "What is R primarily used for?",
+      "options": [
+        "Web development",
+        "System programming",
+        "Statistical computing and graphics",
+        "Mobile app development"
+      ],
+      "answer": "Statistical computing and graphics"
+    },
+    {
+      "question": "Which symbol is used to assign a value to a variable in R?",
+      "options": [
+        "=",
+        "->",
+        "<-",
+        "::"
+      ],
+      "answer": "<-"
+    },
+    {
+      "question": "What function is used to display the structure of an R object?",
+      "options": [
+        "show()",
+        "summary()",
+        "str()",
+        "structure()"
+      ],
+      "answer": "str()"
+    },
+    {
+      "question": "Which data type is used to store categorical data in R?",
+      "options": [
+        "numeric",
+        "factor",
+        "character",
+        "logical"
+      ],
+      "answer": "factor"
+    },
+    {
+      "question": "What does the function `mean()` do in R?",
+      "options": [
+        "Returns the minimum value",
+        "Returns the average of numeric values",
+        "Returns the middle value",
+        "Returns the maximum value"
+      ],
+      "answer": "Returns the average of numeric values"
+    },
+    {
+      "question": "How do you create a vector in R?",
+      "options": [
+        "vector(1,2,3)",
+        "c(1,2,3)",
+        "[1,2,3]",
+        "{1,2,3}"
+      ],
+      "answer": "c(1,2,3)"
+    },
+    {
+      "question": "Which function is used to read a CSV file in R?",
+      "options": [
+        "read.file()",
+        "import.csv()",
+        "read.csv()",
+        "load.csv()"
+      ],
+      "answer": "read.csv()"
+    },
+    {
+      "question": "What is the output type of the function `class()` in R?",
+      "options": [
+        "A function",
+        "A vector",
+        "A string describing the object class",
+        "A numeric value"
+      ],
+      "answer": "A string describing the object class"
+    },
+    {
+      "question": "Which operator is used to access elements in a list?",
+      "options": [
+        "$",
+        "&",
+        "@",
+        "#"
+      ],
+      "answer": "$"
+    },
+    {
+      "question": "How do you install a package in R?",
+      "options": [
+        "library('packageName')",
+        "install('packageName')",
+        "install.packages('packageName')",
+        "include('packageName')"
+      ],
+      "answer": "install.packages('packageName')"
+    }
+  ]
+  

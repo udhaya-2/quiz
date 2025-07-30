@@ -1,0 +1,53 @@
+[
+    {
+      "question": "What is the correct file extension for Python files?",
+      "options": [".pyth", ".pt", ".py", ".pyt"],
+      "answer": ".py"
+    },
+    {
+      "question": "How do you insert comments in Python?",
+      "options": ["// this is a comment", "# this is a comment", "<!-- comment -->", "/* comment */"],
+      "answer": "# this is a comment"
+    },
+    {
+      "question": "Which data type is used to store True or False values?",
+      "options": ["int", "str", "bool", "float"],
+      "answer": "bool"
+    },
+    {
+      "question": "Which keyword is used to define a function in Python?",
+      "options": ["func", "define", "def", "function"],
+      "answer": "def"
+    },
+    {
+      "question": "How do you start a for loop in Python?",
+      "options": ["for (i=0; i<5; i++)", "foreach i in range(5)", "for i in range(5):", "loop i to 5"],
+      "answer": "for i in range(5):"
+    },
+    {
+      "question": "What is the output of print(2 ** 3)?",
+      "options": ["6", "8", "9", "5"],
+      "answer": "8"
+    },
+    {
+      "question": "Which method is used to add an element to a list in Python?",
+      "options": ["append()", "add()", "insert()", "push()"],
+      "answer": "append()"
+    },
+    {
+      "question": "What does the len() function do?",
+      "options": ["Returns the length of a list", "Deletes a list", "Creates a new list", "Sorts a list"],
+      "answer": "Returns the length of a list"
+    },
+    {
+      "question": "How do you create a variable with the value 5 in Python?",
+      "options": ["let x = 5", "x = 5", "int x = 5", "x := 5"],
+      "answer": "x = 5"
+    },
+    {
+      "question": "Which of these is a valid Python tuple?",
+      "options": ["[1, 2, 3]", "{1, 2, 3}", "(1, 2, 3)", "<1, 2, 3>"],
+      "answer": "(1, 2, 3)"
+    }
+  ]
+  

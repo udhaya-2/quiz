@@ -1,0 +1,103 @@
+[
+    {
+      "question": "What is JavaScript primarily used for?",
+      "options": [
+        "Styling web pages",
+        "Adding interactivity to web pages",
+        "Structuring web content",
+        "Managing databases"
+      ],
+      "answer": "Adding interactivity to web pages"
+    },
+    {
+      "question": "Which of the following is the correct way to declare a variable in JavaScript?",
+      "options": [
+        "var myVar",
+        "int myVar",
+        "let = myVar",
+        "const: myVar"
+      ],
+      "answer": "var myVar"
+    },
+    {
+      "question": "Which keyword is used to define a constant in JavaScript?",
+      "options": [
+        "const",
+        "constant",
+        "var",
+        "let"
+      ],
+      "answer": "const"
+    },
+    {
+      "question": "How do you write a comment in JavaScript?",
+      "options": [
+        "/* This is a comment */",
+        "// This is a comment",
+        "# This is a comment",
+        "<!-- This is a comment -->"
+      ],
+      "answer": "// This is a comment"
+    },
+    {
+      "question": "Which symbol is used for strict equality comparison?",
+      "options": [
+        "==",
+        "===",
+        "=",
+        "!=="
+      ],
+      "answer": "==="
+    },
+    {
+      "question": "Which method is used to convert a string to an integer in JavaScript?",
+      "options": [
+        "parseInt()",
+        "toInteger()",
+        "int()",
+        "parse()"
+      ],
+      "answer": "parseInt()"
+    },
+    {
+      "question": "What does the DOM stand for?",
+      "options": [
+        "Document Object Model",
+        "Data Object Method",
+        "Dynamic Output Manager",
+        "Document Orientation Method"
+      ],
+      "answer": "Document Object Model"
+    },
+    {
+      "question": "How do you define a function in JavaScript?",
+      "options": [
+        "function myFunc()",
+        "def myFunc()",
+        "func myFunc()",
+        "create myFunc()"
+      ],
+      "answer": "function myFunc()"
+    },
+    {
+      "question": "Which method adds an element to the end of an array?",
+      "options": [
+        "push()",
+        "add()",
+        "insert()",
+        "append()"
+      ],
+      "answer": "push()"
+    },
+    {
+      "question": "What will `typeof null` return in JavaScript?",
+      "options": [
+        "object",
+        "null",
+        "undefined",
+        "boolean"
+      ],
+      "answer": "object"
+    }
+  ]
+  
