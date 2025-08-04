@@ -10,6 +10,7 @@ const menuQuiz = () => {
   let score = 0;
   
   const quizstart = (e) => {
+    alert("hi")
     fetch(`../api/${e}.json`)
       .then((res) => res.json())
       .then((data) => {
@@ -20,7 +21,7 @@ const menuQuiz = () => {
   };
   
   function showQuestion() {
-    const body = document.querySelector(".body");
+    const body = document.querySelector("");
     let currentValue = questions[questionsIndex];
     let currentOption = currentValue.options
       .map((opt, index) => {
